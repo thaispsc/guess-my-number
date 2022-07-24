@@ -1,9 +1,9 @@
 # guess-my-number
 
-Jogo simples feito para ser jogado com duas pessoas. No início do jogo o jogador 1 será o current player e o jogador 2 estará inativo.
-“ROLL DICE”: O jogador atual deve lançar os dados e, em seguida, um número aleatório será gerado. Se o jogador atual obtiver qualquer número diferente de 1 nos dados, esse número será adicionado, na seção “current”, à pontuação atual (inicialmente a pontuação atual será 0). Se o jogador atual obtiver 1 nos dados , os jogadores serão trocados, ou seja, o jogador atual ficará inativo e vice-versa.
-“HOLD”: Se o jogador atual clicar em HOLD , então a pontuação atual será adicionada à pontuação total . Quando o jogador ativo clica no botão “HOLD” a pontuação total é avaliada. Se a pontuação total for maior ou igual a 20, o jogador atual vence, caso contrário, os jogadores são trocados.
+O projeto se trata de um jogo que tem como objetivo adivinhar um número secreto que está entre 1 e 20.
+Dependendo do número que você escolher dar como palpite, receberá uma mensagem dizendo se ele é muito alto ou muito baixo e terá 10 chances para adivinhar o número correto.
+Se você quiser jogar novamente, pode simplesmente clicar no botão "again!" e tudo é redefinido, exceto o "highscore". O "highscore" é mantido, e se você for mais rápido na próxima rodada, a sua pontuação máxima ficará melhor.
+ 
+Jogo bem simples, mas serviu para colocar em pratica o que tenho aprendido sobre JavaScript, HTML e CSS.
 
-Projeto feito com JavaScript puro, HTML e CSS.
-
-Página do projeto: https://lnkd.in/efvyiDMX
+Link do projeto no GitHub Pages: https://lnkd.in/en9jUBZu
