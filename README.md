@@ -1,4 +1,4 @@
-# guess-my-number
+<h1 align="center">GUESS MY NUMBER</h1>
 
 O projeto se trata de um jogo que tem como objetivo adivinhar um número secreto que está entre 1 e 20.
 Dependendo do número que você escolher dar como palpite, receberá uma mensagem dizendo se ele é muito alto ou muito baixo e terá 10 chances para adivinhar o número correto.
